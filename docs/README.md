@@ -7,11 +7,11 @@ Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / Xen
 
 ### Common
 
-- [`-l10n-`](https://github.com/search?q=topic:l10n+org:pkgstore&type=Repositories) - localization.
-- [`-ui-`](https://github.com/search?q=topic:ui+org:pkgstore&type=Repositories) - user interface (style / theme).
-- [`-ext-`](https://github.com/search?q=topic:ext+org:pkgstore&type=Repositories) - extension (module / plugin).
-- [`-deb-`](https://github.com/search?q=topic:deb+org:pkgstore&type=Repositories) - DEB package for DEB-based linux distributions.
-- [`-rpm-`](https://github.com/search?q=topic:rpm+org:pkgstore&type=Repositories) - RPM package for RPM-based linux distributions.
+- [Localization](https://github.com/search?q=topic:l10n+org:pkgstore&type=Repositories)
+- [User Interface (Style / Theme)](https://github.com/search?q=topic:ui+org:pkgstore&type=Repositories)
+- [Extension](https://github.com/search?q=topic:extension+org:pkgstore&type=Repositories)
+- [DEB package](https://github.com/search?q=topic:deb+org:pkgstore&type=Repositories)
+- [RPM package](https://github.com/search?q=topic:rpm+org:pkgstore&type=Repositories)
 
 ### CMF
 
