@@ -7,25 +7,25 @@ Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / Xen
 
 ### Common
 
-- [Extension](https://github.com/search?q=topic:extension+org:pkgstore&type=Repositories)
-- [Localization](https://github.com/search?q=topic:l10n+org:pkgstore&type=Repositories)
-- [Package: DEB](https://github.com/search?q=topic:deb+org:pkgstore&type=Repositories)
-- [Package: RPM](https://github.com/search?q=topic:rpm+org:pkgstore&type=Repositories)
-- [Script](https://github.com/search?q=topic:script+org:pkgstore&type=Repositories)
-- [User Interface (Style / Theme)](https://github.com/search?q=topic:ui+org:pkgstore&type=Repositories)
+- [Extension](https://github.com/search?q=topic:extension+org:pkgstore&amp;type=Repositories)
+- [Localization](https://github.com/search?q=topic:l10n+org:pkgstore&amp;type=Repositories)
+- [Package: DEB](https://github.com/search?q=topic:deb+org:pkgstore&amp;type=Repositories)
+- [Package: RPM](https://github.com/search?q=topic:rpm+org:pkgstore&amp;type=Repositories)
+- [Script](https://github.com/search?q=topic:script+org:pkgstore&amp;type=Repositories)
+- [User Interface (Style / Theme)](https://github.com/search?q=topic:ui+org:pkgstore&amp;type=Repositories)
 
 ### CMF
 
-- [Drupal](https://github.com/search?q=topic:drupal+org:pkgstore&type=Repositories)
-- [Flarum](https://github.com/search?q=topic:flarum+org:pkgstore&type=Repositories)
-- [Hugo](https://github.com/search?q=topic:hugo+org:pkgstore&type=Repositories)
-- [MediaWiki](https://github.com/search?q=topic:mediawiki+org:pkgstore&type=Repositories)
-- [WordPress](https://github.com/search?q=topic:wordpress+org:pkgstore&type=Repositories)
-- [XenForo](https://github.com/search?q=topic:xenforo+org:pkgstore&type=Repositories)
+- [Drupal](https://github.com/search?q=topic:drupal+org:pkgstore&amp;type=Repositories)
+- [Flarum](https://github.com/search?q=topic:flarum+org:pkgstore&amp;type=Repositories)
+- [Hugo](https://github.com/search?q=topic:hugo+org:pkgstore&amp;type=Repositories)
+- [MediaWiki](https://github.com/search?q=topic:mediawiki+org:pkgstore&amp;type=Repositories)
+- [WordPress](https://github.com/search?q=topic:wordpress+org:pkgstore&amp;type=Repositories)
+- [XenForo](https://github.com/search?q=topic:xenforo+org:pkgstore&amp;type=Repositories)
 
 ### OS
 
-- [Linux](https://github.com/search?q=topic:linux+org:pkgstore&type=Repositories)
+- [Linux](https://github.com/search?q=topic:linux+org:pkgstore&amp;type=Repositories)
 
 ## Stores
 
