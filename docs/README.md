@@ -24,6 +24,7 @@ Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / Xen
 ### OS
 
 - [Linux](https://github.com/search?q=topic:linux+org:pkgstore&amp;type=Repositories)
+  - [Linux Script](https://github.com/search?q=topic:linux+topic:script+org:pkgstore&amp;type=Repositories)
   - [Linux Package: DEB](https://github.com/search?q=topic:linux+topic:deb+org:pkgstore&amp;type=Repositories)
   - [Linux Package: RPM](https://github.com/search?q=topic:linux+topic:rpm+org:pkgstore&amp;type=Repositories)
 
