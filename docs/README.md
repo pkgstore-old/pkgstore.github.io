@@ -16,10 +16,18 @@ Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / Xen
 
 - [Drupal](https://github.com/search?q=topic:drupal+org:pkgstore&amp;type=Repositories)
 - [Flarum](https://github.com/search?q=topic:flarum+org:pkgstore&amp;type=Repositories)
+  - [Extensions](https://github.com/search?q=topic:flarum+topic:extension+org:pkgstore&amp;type=Repositories)
+  - [Localizations](https://github.com/search?q=topic:flarum+topic:l10n+org:pkgstore&amp;type=Repositories)
 - [Hugo](https://github.com/search?q=topic:hugo+org:pkgstore&amp;type=Repositories)
+  - [Extensions](https://github.com/search?q=topic:hugo+topic:extension+org:pkgstore&amp;type=Repositories)
+  - [User Interface](https://github.com/search?q=topic:hugo+topic:ui+org:pkgstore&amp;type=Repositories)
 - [MediaWiki](https://github.com/search?q=topic:mediawiki+org:pkgstore&amp;type=Repositories)
+  - [Extensions](https://github.com/search?q=topic:mediawiki+topic:extension+org:pkgstore&amp;type=Repositories)
 - [WordPress](https://github.com/search?q=topic:wordpress+org:pkgstore&amp;type=Repositories)
+  - [Extensions](https://github.com/search?q=topic:wordpress+topic:extension+org:pkgstore&amp;type=Repositories)
 - [XenForo](https://github.com/search?q=topic:xenforo+org:pkgstore&amp;type=Repositories)
+  - [Extensions](https://github.com/search?q=topic:xenforo+topic:extension+org:pkgstore&amp;type=Repositories)
+  - [Localizations](https://github.com/search?q=topic:xenforo+topic:l10n+org:pkgstore&amp;type=Repositories)
 
 ### OS
 
