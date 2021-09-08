@@ -38,7 +38,7 @@ Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / Xen
 
 ## Stores
 
-### [**GitHub Package Store**](https://github.com/pkgstore)
+### [GitHub Package Store](https://github.com/pkgstore)
 
 Source code.
 
@@ -57,10 +57,11 @@ DEB packages.
 #### Install
 
 ```sh
-echo 'deb http://download.opensuse.org/repositories/home:/pkgstore:/deb-ext/Debian_11/ /' | tee /etc/apt/sources.list.d/home:pkgstore:deb-ext.list
-  && curl -fsSL 'https://download.opensuse.org/repositories/home:pkgstore:deb-ext/Debian_11/Release.key' | gpg --dearmor | tee /etc/apt/trusted.gpg.d/home_pkgstore_deb-ext.gpg > /dev/null
-  && sudo apt update
+echo 'deb http://download.opensuse.org/repositories/home:/pkgstore:/deb/Debian_11/ /' | tee /etc/apt/sources.list.d/home:pkgstore:deb.list && curl -fsSL 'https://download.opensuse.org/repositories/home:pkgstore:deb/Debian_11/Release.key' | gpg --dearmor | tee /etc/apt/trusted.gpg.d/home_pkgstore_deb.gpg > /dev/null && apt update
+```
 
+```sh
+echo 'deb http://download.opensuse.org/repositories/home:/pkgstore:/deb-ext/Debian_11/ /' | tee /etc/apt/sources.list.d/home:pkgstore:deb-ext.list && curl -fsSL 'https://download.opensuse.org/repositories/home:pkgstore:deb-ext/Debian_11/Release.key' | gpg --dearmor | tee /etc/apt/trusted.gpg.d/home_pkgstore_deb-ext.gpg > /dev/null && apt update
 ```
 
 ## Resources
