@@ -38,31 +38,13 @@ Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / Xen
 
 ## Stores
 
-### [GitHub Package Store](https://github.com/pkgstore)
-
-Source code.
-
-### [Packagist](https://packagist.org/packages/pkgstore)
-
-PHP packages.
-
-### [Fedora COPR Build System](https://copr.fedorainfracloud.org/coprs/pkgstore)
-
-RPM packages.
-
-### [openSUSE Build Service](https://build.opensuse.org/users/pkgstore)
-
-DEB packages.
-
-#### Install
-
-```sh
-echo 'deb http://download.opensuse.org/repositories/home:/pkgstore:/deb/Debian_11/ /' | tee /etc/apt/sources.list.d/home:pkgstore:deb.list && curl -fsSL 'https://download.opensuse.org/repositories/home:pkgstore:deb/Debian_11/Release.key' | gpg --dearmor | tee /etc/apt/trusted.gpg.d/home_pkgstore_deb.gpg > /dev/null && apt update
-```
-
-```sh
-echo 'deb http://download.opensuse.org/repositories/home:/pkgstore:/deb-ext/Debian_11/ /' | tee /etc/apt/sources.list.d/home:pkgstore:deb-ext.list && curl -fsSL 'https://download.opensuse.org/repositories/home:pkgstore:deb-ext/Debian_11/Release.key' | gpg --dearmor | tee /etc/apt/trusted.gpg.d/home_pkgstore_deb-ext.gpg > /dev/null && apt update
-```
+- [Package Store](https://github.com/pkgstore)  
+  **Central Store** for developing packages.
+  - [Debian Package Store](https://github.com/deb-store)  
+    Source packages for **Debian**.
+  - [RPM Package Store](https://github.com/rpm-store)  
+    Source packages for **RPM-based OS** (RHEL / Fedora).
+  - [Packagist](https://packagist.org/packages/pkgstore)  
 
 ## Resources
 
@@ -82,4 +64,4 @@ echo 'deb http://download.opensuse.org/repositories/home:/pkgstore:/deb-ext/Debi
 
 ## Backup
 
-- [GitLab Package Store](https://gitlab.com/pkgstore)
+- [GitLab](https://gitlab.com/pkgstore)
