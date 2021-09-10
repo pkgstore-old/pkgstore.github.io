@@ -45,7 +45,7 @@ Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / Xen
   - [RPM Package Store](https://github.com/rpm-store)  
     Source packages for **RPM-based OS** (RHEL / Fedora).
   - [Packagist](https://packagist.org/packages/pkgstore)  
-    Packages for PHP Composer.
+    Packages for **PHP Composer**.
 
 ## Resources
 
